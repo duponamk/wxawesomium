@@ -1,0 +1,1 @@
+This allows you to use the [Awesomium](http://princeofcode.com/awesomium.php) WebKit build in [wxWidgets](http://wxwidgets.org). It supports a very easy to use interface.
